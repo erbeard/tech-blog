@@ -43,8 +43,6 @@
     npm i bcrypt connect-session-sequelize dotenv express express-handlebars express-session  handlebars inquirer mysql2 nodemon sequelize
   
   ## Usage
-  Start the server by running "npm start". Leverage Insomnia to navigate the API routes. 
-
   Live Link: https://immense-garden-16512.herokuapp.com/
   
   ## How to Contribute
